@@ -123,7 +123,7 @@ function createWebsocketTarget(socketUri, platform, saveScreenshotToFile) {
       lastStoryCrashed = false;
     }
     debug('captureScreenshotForStory', kind, story);
-    send('setCurrentStory', { kind, story });
+    send('selectStory', { kind, story });
     try {
       await waitForLokiMessage('ready', 30000);
     } catch (error) {
