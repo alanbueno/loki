@@ -19,7 +19,7 @@
     "build-storybook": "build-storybook -s public"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^5.0.0",
+    "@storybook/addon-actions": "^6.1.21",
     "@storybook/addon-links": "^5.0.0",
     "@storybook/addons": "^5.0.0",
     "@storybook/cli": "^5.0.0",
