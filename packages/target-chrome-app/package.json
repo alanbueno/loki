@@ -22,7 +22,7 @@
   "dependencies": {
     "@loki/target-chrome-core": "0.18.1",
     "chrome-launcher": "^0.12.0",
-    "chrome-remote-interface": "^0.28.0",
+    "chrome-remote-interface": "^0.30.1",
     "debug": "^4.1.1"
   },
   "publishConfig": {
