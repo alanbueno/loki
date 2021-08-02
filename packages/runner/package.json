@@ -34,7 +34,7 @@
     "@loki/target-native-android-emulator": "0.18.1",
     "@loki/target-native-ios-simulator": "0.18.1",
     "async": "^3.0.1",
-    "chalk": "^3.0.0",
+    "chalk": "^4.1.2",
     "ci-info": "^2.0.0",
     "fs-extra": "^8.1.0",
     "import-jsx": "^3.0.0",
